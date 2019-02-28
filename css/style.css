@@ -1,0 +1,61 @@
+body{
+	background-color: #0B172A;
+	font-family: 'Nokora';
+	font-size: 18px;
+}
+
+.navbar-custom{
+	background-color: #0B172A;
+	border-radius: 0px;
+	padding: 10px 0px;
+	margin-bottom: 0px;
+}
+.navbar-nav li a{
+	color:  #e6e7e9;
+	font-variant: small-caps;
+}
+.navbar-nav li a:hover{
+	background-color: #BC9D29;
+	border-radius: 5px;
+}
+.navbar-collapse .center{
+	text-align: center;
+}
+.line{
+	pointer-events: none;
+	opacity: 0.6;
+}
+.carous{
+	padding-bottom: 20px;
+}
+.products{
+	color: #0B172A;
+	background-color:  #e6e7e9;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 10px;
+  text-align: center;
+  border: 1px solid #BC9D29;
+  background-color: #0B172A;
+  color: #e6e7e9;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 5px 10px;
+  margin: 3px;
+  color: white;
+  background-color: #BC9D29;
+  text-align: center;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 5px;
+}
+
+.card button:hover {
+	background-color: rgba(188,157,41,0.7);
+}
